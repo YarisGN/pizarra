@@ -12,12 +12,14 @@ Necesitamos abrir una nueva terminal y vamos a invocar python para crear un nuev
     python -m venv venv
 ```
 
-Ahora apretamos las teclas, contrl shift p
-escribimos Select, seleccionamos:
+Ahora apretamos las teclas: **contrl + shift + p**     
+
+
+Escribimos Select y seleccionamos:
 ```bash
     Python: Select Interpreter
 ``` 
-Seleccionamos el enterno virtual que acabamos de crear 
+y seleccionamos el enterno virtual que acabamos de crear 
 
 
 Vamos a trabajar con la libreria tkinter para crear las ventanas, asi que para instalarlo en la terminal escribimos:
