@@ -2,6 +2,9 @@
  
 Bienvenidos a una pizarra en Python, una herramienta que permite hacer dibujos.
 
+## Imagen de la aplicacion 
+![Alt text](/img.png)
+
 ## Servidor de desarrollo
 
 Necesitamos abrir una nueva terminal, y vamos a invocar python para crear un nuevo entorno virtual, usando:
@@ -22,9 +25,6 @@ Vamos a trabajar con la libreria tkinter para crear las ventanas, asi que para i
     pip install tk
 ``` 
  
-
-## Imagen de la aplicacion 
-![Alt text](img.png)
 
 ## Licencia
  
